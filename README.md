@@ -1,2 +1,7 @@
 # recommendation_engine
-The aim of this project is to create a movie recommendation engine using a public database of information on films
+The aim of this project is to create a movie recommendation engine using a public database of information on films.
+
+### 2 parts :
+- Cleaning and Exploratory analysis notebook
+- Notebook of tests of different modelling approaches of movie recommendation engine
+
